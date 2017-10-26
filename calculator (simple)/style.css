@@ -1,0 +1,27 @@
+body {
+    background-image: url(2.jpg);
+
+}
+
+p {
+    font-family: verdana;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	margin-top: -225px;
+	margin-left: -225px;
+	top: 50%;
+	left: 50%
+}
+
+
+
+
